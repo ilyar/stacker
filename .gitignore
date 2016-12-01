@@ -1,4 +1,5 @@
 /workspace
-/mysql
+mysql/mysql
 .idea/
 pgsql/
+elasticsearch
